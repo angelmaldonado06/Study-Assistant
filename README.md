@@ -1,7 +1,7 @@
 # Multimodal AI Study Assistant (WIP)
 An intelligent AI-powered study assistant that can understand PDFs, images (notes, whiteboards), and user questions to provide contextual answers and summaries.
 
-``` This project is currenlty in progress and core architecture is being actively developed. ```
+This project is currenlty in progress and core architecture is being actively developed.
 
 ## Goal
 To build an AI study tool that behaves like a chatbot and understands your study materials
@@ -11,3 +11,9 @@ To build an AI study tool that behaves like a chatbot and understands your study
 * VLM: granite3.2-vision
 * Embeddings: E5-Large
 * Vector Store: ChromaDB
+
+## Example Use Cases
+* Upload lecture slides → ask questions
+* Take a photo of notes → get explanations
+* Upload notes only → receive summary
+* Combine notes + question → get contextual answers
